@@ -5,7 +5,20 @@ Notes for Project 3
 
 [] = incomplete     [√] = completed       √ = alt  v
 
+[] Task A Make Welcome Center 
+	[] Game explaination. 
+	[] 
 
+[] Task B Make Corn Maze
+	[] Interactable items
+		[] Sword 
+		[] Exit Flares
+
+[] Task C Make Petting Zoo
+	[] Make tennis game to exit
+	
+	[] Aniamls
+		[] Giraffe
 
 
 
@@ -25,12 +38,10 @@ VRTK
 https://github.com/ExtendRealityLtd/VRTK 
 
 
+
+
+
 -------------------------------------------------------------------------------
-
-
-
-
-
 
 
 
@@ -44,7 +55,17 @@ trentspice
 https://sketchfab.com/3d-models/fence-wood-e530c55db10348a3a547ef92149bdd10
 
 
+
+
+
+
 -------------------------------------------------------------------------------
+
+
+
+
+
+
 
 2D images:
 
@@ -58,6 +79,17 @@ light reflected on water at daytime
 Marissa Rodriguez
 https://unsplash.com/s/photos/sand
 
+grass
+green lawn
+Free To Use Sounds
+https://unsplash.com/s/photos/grass
+
+grass2
+green textile
+Akshay Chauhan
+https://unsplash.com/photos/qBUU6wsgK6A
+
+
 Brick Wall Test
 adamdart7
 https://sketchfab.com/3d-models/brick-wall-test-b8c4aa9e02d64689bf63453378f2f99e
@@ -67,6 +99,11 @@ Proptober Day 13: Hand Painted Stone Texture
 Nicholas DaRocha
 https://sketchfab.com/3d-models/Brick wall on building
 proptober-day-13-hand-painted-stone-texture-8d2ff8c2a55544d8a37481839813e038
+
+
+
+
+
 
 
 -------------------------------------------------------------------------------
