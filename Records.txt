@@ -1,0 +1,94 @@
+
+
+Notes for Project 3
+
+
+[] = incomplete     [√] = completed       √ = alt  v
+
+
+
+
+
+
+
+Code:
+
+Creating World
+29th July 2018 - VRTK V4 Interactions Showcase
+Virtual Reality Toolkit
+https://www.youtube.com/watch?v=zaL3IuvVRfA
+
+Base Code
+https://github.com/uic-cs428-arvr-master/Project2 
+
+VRTK
+https://github.com/ExtendRealityLtd/VRTK 
+
+
+-------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+3D Models:
+
+Fence 
+Fence (Wood)
+trentspice
+https://sketchfab.com/3d-models/fence-wood-e530c55db10348a3a547ef92149bdd10
+
+
+-------------------------------------------------------------------------------
+
+2D images:
+
+Sand
+brown sands
+Daniel Straub
+https://unsplash.com/s/photos/sand
+
+Water
+light reflected on water at daytime
+Marissa Rodriguez
+https://unsplash.com/s/photos/sand
+
+Brick Wall Test
+adamdart7
+https://sketchfab.com/3d-models/brick-wall-test-b8c4aa9e02d64689bf63453378f2f99e
+
+First floor tiles
+Proptober Day 13: Hand Painted Stone Texture
+Nicholas DaRocha
+https://sketchfab.com/3d-models/Brick wall on building
+proptober-day-13-hand-painted-stone-texture-8d2ff8c2a55544d8a37481839813e038
+
+
+-------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
