@@ -7,19 +7,24 @@ Notes for Project 3
 
 
 
-[] Task A, Make Welcome Center 
+[] Task A, Welcome Center 
 	[] Game explaination. 
 	[] Make Booth type thingy
 
 
-[] Task B, Make Corn Maze
+[] Task B,Corn Maze
+	[] Maze
+
 	[] Interactable items
-		[] Sword 
+		[] Cutable Corn Stalks
+		[] Sword to cut corn in half
 		[] Exit Flares
+		[] Apple Tree, take from Farm
 
 
 
-[] Task C, Make Petting Zoo
+
+[] Task C, Petting Zoo
 	[] Make tennis game to exit
 	
 	[] Aniamls
@@ -32,7 +37,15 @@ Notes for Project 3
 	[] Add beach toys / items
 	[] Add small islands
 	[] Add light House
+	[] Add beach animals Crabs, birds, etc.
 
+
+
+
+[] Task E, Cave if time permitting
+	[] indiana jone bolder scene
+
+	[] Trigger treasure chest
 
 ---------------------------------------------------------------------------
 
@@ -90,6 +103,21 @@ BoardWalk
 Pontoon Low Poly
 JunkJunction
 https://sketchfab.com/3d-models/pontoon-low-poly-c89c4bbf1b6b48d789361cd2bf558cfd
+
+Boat
+Nikhil chatla
+https://sketchfab.com/3d-models/boat-8391ea38c022476b8896bd65b8146c29
+
+Pirate Ship
+cubic-lemon
+https://sketchfab.com/3d-models/pirate-ship-5434e9c5cc8b4f7bbbab1f177064e6aa
+
+Hot air Balloon
+Low poly hot air balloon
+stormsurgestudio
+https://sketchfab.com/3d-models/low-poly-hot-air-balloon-3eff436e33ce4db3a54d4d8edc43528b
+
+
 
 
 
