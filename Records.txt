@@ -5,16 +5,16 @@ Notes for Project 3
 
 [] = incomplete     [√] = completed       √ = alt  v
 
-[] Task A Make Welcome Center 
+[] Task A, Make Welcome Center 
 	[] Game explaination. 
 	[] 
 
-[] Task B Make Corn Maze
+[] Task B, Make Corn Maze
 	[] Interactable items
 		[] Sword 
 		[] Exit Flares
 
-[] Task C Make Petting Zoo
+[] Task C, Make Petting Zoo
 	[] Make tennis game to exit
 	
 	[] Aniamls
