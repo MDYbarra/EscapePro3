@@ -22,15 +22,12 @@ Notes for Project 3
 		[] Apple Tree, take from Farm
 
 
-
-
 [] Task C, Petting Zoo
-	[] Make tennis game to exit
+	[] Make tennis game 
 	
 	[] Aniamls
 		[] Giraffe
 		[] Penguin
-
 
 
 [] Task D, Beach Scence
@@ -40,9 +37,10 @@ Notes for Project 3
 	[] Add beach animals Crabs, birds, etc.
 	[] Add animation to pirate ship, hot air balloon
 
+[] Task E, Walking
+	[] program right controller touch pad to make the player walk forward.
 
-
-[] Task E, Cave if time permitting
+[] Task F, Cave if time permitting
 	[] indiana jone bolder scene
 
 	[] Trigger treasure chest
@@ -67,7 +65,10 @@ https://github.com/uic-cs428-arvr-master/Project2
 VRTK
 https://github.com/ExtendRealityLtd/VRTK 
 
-
+Walking button
+Using scaling in your game design for fun in Virtual Reality with Unity3D
+Jason Weimann
+https://www.youtube.com/watch?v=pME123lfnEI&list=PLKxd7jXHNnjePZiHNzBV8ueiUFvhn5Ods&index=12&t=137s
 
 
 
