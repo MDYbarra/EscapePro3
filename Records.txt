@@ -38,7 +38,7 @@ Notes for Project 3
 	[] Add small islands
 	[] Add light House
 	[] Add beach animals Crabs, birds, etc.
-
+	[] Add animation to pirate ship, hot air balloon
 
 
 
@@ -84,20 +84,10 @@ Fence (Wood)
 trentspice
 https://sketchfab.com/3d-models/fence-wood-e530c55db10348a3a547ef92149bdd10
 
-Aku Aku Mask
-AKU AKU From Crash Bandicoot [High Poly]
-Edoardo Galati
-https://sketchfab.com/3d-models/aku-aku-from-crash-bandicoot-high-poly-a7a9fe0ff2a44dfb9d3835bf293d81be
-
 ScareCrow
 Scarecrow Target
 Inuciian
 https://sketchfab.com/3d-models/scarecrow-target-c2fd402a2468450baa7329ae9878cba4
-
-Trees
-midpoly tree pack 012
-ztrztr
-https://sketchfab.com/3d-models/midpoly-tree-pack-012-9ffed93bef564db6be0d5e0b12d4a341
 
 BoardWalk
 Pontoon Low Poly
