@@ -51,8 +51,11 @@ Notes for Project 3
 
 
 
+Software Used
 
-
+PhotoEditor
+GIMP 2.10.10
+GNU Image Manipulation Program
 
 
 
@@ -176,7 +179,10 @@ Nicholas DaRocha
 https://sketchfab.com/3d-models/Brick wall on building
 proptober-day-13-hand-painted-stone-texture-8d2ff8c2a55544d8a37481839813e038
 
-
+Corn Maze background
+Waldemar Brandt
+corn field in selective photography
+https://unsplash.com/photos/T9lKlrW1zoU
 
 
 
