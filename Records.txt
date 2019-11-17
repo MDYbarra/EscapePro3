@@ -52,6 +52,14 @@ Notes for Project 3
 
 
 
+
+
+
+
+
+
+
+
 Code:
 
 Creating World
@@ -70,9 +78,18 @@ Using scaling in your game design for fun in Virtual Reality with Unity3D
 Jason Weimann
 https://www.youtube.com/watch?v=pME123lfnEI&list=PLKxd7jXHNnjePZiHNzBV8ueiUFvhn5Ods&index=12&t=137s
 
+Blender tutorial for making 3D models
+Blender 2.8 Tutorial #1: Intro for Beginners #b3d
+BornCG
+https://www.youtube.com/watch?v=aX6HAn7zieg&list=PLKxd7jXHNnjePZiHNzBV8ueiUFvhn5Ods&index=10&t=2353s
 
 
 -------------------------------------------------------------------------------
+
+
+
+
+
 
 
 
@@ -113,6 +130,12 @@ https://sketchfab.com/3d-models/low-poly-hot-air-balloon-3eff436e33ce4db3a54d4d8
 
 
 -------------------------------------------------------------------------------
+
+
+
+
+
+
 
 
 
