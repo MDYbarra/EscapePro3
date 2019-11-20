@@ -208,6 +208,26 @@ https://wall.alphacoders.com/big.php?i=13000
 
 
 
+
+
+Music
+
+tree room
+Album name: Legend of Zelda, The - A Link to the Past (1991) (SNES)
+Song name: Beginning of the Journey
+https://downloads.khinsider.com/game-soundtracks/album/legend-of-zelda-the-a-link-to-the-past-snes/02%2520Beginning%2520of%2520the%2520Journey.mp3
+
+
+
+play area background
+Album name: Legend of Zelda, The - A Link to the Past (1991) (SNES)
+Song name: Kakariko Village
+https://downloads.khinsider.com/game-soundtracks/album/legend-of-zelda-the-a-link-to-the-past-snes/09%2520Kakariko%2520Village.mp3
+
+
+----------------------------------------------------------------------------
+
+
 General Issues
 
 - Unable to not walk through walls.
