@@ -23,7 +23,7 @@ Notes for Project 3
 
 
 [] Task C, Petting Zoo
-	[] Make tennis game 
+	[] Make tossing game 
 	
 	[] Aniamls
 		[] Giraffe
@@ -56,6 +56,12 @@ Software Used
 PhotoEditor
 GIMP 2.10.10
 GNU Image Manipulation Program
+
+
+
+-----------------------------------------------------------------------
+
+
 
 
 
@@ -202,8 +208,16 @@ https://wall.alphacoders.com/big.php?i=13000
 
 
 
+General Issues
 
+- Unable to not walk through walls.
+- Unable to climb/reach 2nd flr.
+* Solution: Open flat play area, with objects you can 
+			walk through.
 
+- Scaling tip
+	Add object made to your hieght and set in front of 
+	game tab to quicly adjust of models. 
 
 
 
