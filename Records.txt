@@ -167,8 +167,19 @@ LowPoly Beach Pack
 mkm.
 https://sketchfab.com/3d-models/lowpoly-beach-pack-12b3cf92f1214b638cdf7f7297ce4e75
 
+Umbrella Pair
+Parasol lowpoly - beach umbrella
+Harold.Llanos
+https://sketchfab.com/3d-models/parasol-lowpoly-beach-umbrella-bac8486298ab41ab884fccb867f1527b
 
+Sand Castle
+gugusheep
+https://sketchfab.com/3d-models/sand-castle-6a4e86bc640f4794bacb2c14f2facac9
 
+Large Sand Castle
+Castle Of Chinchilla Spain
+GSXNet
+https://sketchfab.com/3d-models/castle-of-chinchilla-spain-7f43805cd81e4512a4e683c33572e014
 
 
 -------------------------------------------------------------------------------
@@ -257,8 +268,8 @@ General Issues
 	Add object made to your hieght and set in front of 
 	game tab to quicly adjust of models. 
 
-
-
+- Sand Castles 
+	Used 3D Models of real castles with a sand jpgß
 
 
 
