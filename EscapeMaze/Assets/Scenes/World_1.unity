@@ -35211,7 +35211,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1417017763}
   m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -89.98, y: 0, z: 0}
 --- !u!33 &921061902973960601
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -38240,6 +38240,8 @@ GameObject:
   - component: {fileID: 920976862907298733}
   - component: {fileID: 8186683397444094363}
   - component: {fileID: 2495126442551391586}
+  - component: {fileID: 4223442188390334912}
+  - component: {fileID: 4223442188390334911}
   m_Layer: 0
   m_Name: boulder
   m_TagString: Untagged
@@ -38247,6 +38249,40 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!111 &4223442188390334911
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4223442188390334910}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: 181a7d500e209af4fa3aa04c57cd2a3d, type: 2}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
+--- !u!95 &4223442188390334912
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4223442188390334910}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 45829cb3252660742b510c1c5685357f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &4252574926831776999
 Transform:
   m_ObjectHideFlags: 0
