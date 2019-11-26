@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GoalGame : MonoBehaviour
 {
@@ -21,6 +22,7 @@ public class GoalGame : MonoBehaviour
         if (SphereC.activeSelf == false && SphereA.activeSelf == false && SphereB.activeSelf == false)
         {
             TestObject.SetActive(false);
+            SceneManager.LoadScene("World_2");
         }
         if (SphereC.activeSelf == false && SphereA.activeSelf == true && SphereB.activeSelf == false)
         {
