@@ -198,6 +198,11 @@ Simple Voxel Bedroom
 JonathanZWhite
 https://sketchfab.com/3d-models/simple-voxel-bedroom-a8362a2280184085859ffbc0acb990d8#download
 
+Lamp
+Industrial Lamp 02 (Mobile)
+Juan Milanese
+https://sketchfab.com/3d-models/industrial-lamp-02-mobile-3ba9bccc46c64152ae02e2d30da372c3
+
 
 -------------------------------------------------------------------------------
 
@@ -278,6 +283,10 @@ Album name: Legend of Zelda, The (NES)
 Song name: Secret
 https://downloads.khinsider.com/game-soundtracks/album/the-legend-of-zelda-nes/05%2520Secret.mp3
 
+World 2
+Album name: Legend of Zelda, The - Ocarina of Time 3D Original Soundtrack
+Song name: House
+https://downloads.khinsider.com/game-soundtracks/album/the-legend-of-zelda-ocarina-of-time-3d-original-soundtrack/04%2520House.mp3
 
 
 ----------------------------------------------------------------------------
