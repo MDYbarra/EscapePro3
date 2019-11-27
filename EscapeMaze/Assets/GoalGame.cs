@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class GoalGame : MonoBehaviour
 {
-    public GameObject SphereA, SphereB, SphereC, CorrectAudio, CorrectAudio2, IncorrectAudio, VictoryAudio;
+    public GameObject SphereA, SphereB, SphereC, CorrectAudio, CorrectAudio2, IncorrectAudio, VictoryAudio, JokerWin;
 
     // Start is called before the first frame update
     void Start()
@@ -22,6 +22,7 @@ public class GoalGame : MonoBehaviour
         if (SphereC.activeSelf == false && SphereA.activeSelf == false && SphereB.activeSelf == false)
         {
             VictoryAudio.SetActive(true);
+            JokerWin.SetActive(true);
             Invoke("SceneChanger", 5);
         }
         if (SphereC.activeSelf == false && SphereA.activeSelf == true && SphereB.activeSelf == false)
