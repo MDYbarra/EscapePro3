@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class GoalGame : MonoBehaviour
 {
-    public GameObject SphereA, SphereB, SphereC;
+    public GameObject SphereA, SphereB, SphereC, CorrectAudio, CorrectAudio2, IncorrectAudio, VictoryAudio;
 
     // Start is called before the first frame update
     void Start()
@@ -21,8 +21,8 @@ public class GoalGame : MonoBehaviour
     {
         if (SphereC.activeSelf == false && SphereA.activeSelf == false && SphereB.activeSelf == false)
         {
-            //TestObject.SetActive(false);
-            SceneManager.LoadScene("World_2");
+            VictoryAudio.SetActive(true);
+            Invoke("SceneChanger", 5);
         }
         if (SphereC.activeSelf == false && SphereA.activeSelf == true && SphereB.activeSelf == false)
         {
@@ -30,7 +30,16 @@ public class GoalGame : MonoBehaviour
             SphereB.SetActive(true);
             SphereC.SetActive(true);
         }
+        if (SphereC.activeSelf == false && SphereA.activeSelf == false && SphereB.activeSelf == true)
+        {
+            CorrectAudio2.SetActive(true);
+        }
 
+        }
+
+    public void SceneChanger()
+    {
+        SceneManager.LoadScene("World_2");
     }
 
     public void CodeThing()
@@ -40,17 +49,24 @@ public class GoalGame : MonoBehaviour
             SphereA.SetActive(true);
             SphereB.SetActive(true);
             SphereC.SetActive(true);
+            IncorrectAudio.SetActive(true);
+            CorrectAudio.SetActive(false);
+            CorrectAudio2.SetActive(false);
         }
      
 
         else if (SphereC.activeSelf == false && SphereA.activeSelf == true && SphereB.activeSelf == true)
         {
+            IncorrectAudio.SetActive(false);
+            CorrectAudio.SetActive(true);
 
             if (SphereC.activeSelf == false && SphereA.activeSelf == false && SphereB.activeSelf == true)
             {
+                CorrectAudio2.SetActive(true);
+
                 if (SphereC.activeSelf == false && SphereA.activeSelf == false && SphereB.activeSelf == false)
                 {
-                    //TestObject.SetActive(false);
+                    VictoryAudio.SetActive(true);
                 }
                 
             }
