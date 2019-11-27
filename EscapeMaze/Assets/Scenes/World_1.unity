@@ -55796,7 +55796,6 @@ MonoBehaviour:
   SphereA: {fileID: 1062708896}
   SphereB: {fileID: 976035962}
   SphereC: {fileID: 941264997}
-  TestObject: {fileID: 0}
 --- !u!1 &1618970774
 GameObject:
   m_ObjectHideFlags: 0
@@ -60180,7 +60179,6 @@ MonoBehaviour:
   SphereA: {fileID: 1062708896}
   SphereB: {fileID: 976035962}
   SphereC: {fileID: 941264997}
-  TestObject: {fileID: 0}
 --- !u!1 &1751184348
 GameObject:
   m_ObjectHideFlags: 0
@@ -62529,7 +62527,6 @@ MonoBehaviour:
   SphereA: {fileID: 1062708896}
   SphereB: {fileID: 976035962}
   SphereC: {fileID: 941264997}
-  TestObject: {fileID: 0}
 --- !u!1 &1824498059
 GameObject:
   m_ObjectHideFlags: 0
@@ -99564,7 +99561,6 @@ MonoBehaviour:
   SphereA: {fileID: 1062708896}
   SphereB: {fileID: 976035962}
   SphereC: {fileID: 941264997}
-  TestObject: {fileID: 0}
 --- !u!1 &3941132091428617337
 GameObject:
   m_ObjectHideFlags: 0
@@ -116691,6 +116687,8 @@ GameObject:
   - component: {fileID: 7847096114894708430}
   - component: {fileID: 3106226254401387154}
   - component: {fileID: 2107516661500801556}
+  - component: {fileID: 6409747882392796700}
+  - component: {fileID: 6409747882392796699}
   m_Layer: 0
   m_Name: AbsoluteWin
   m_TagString: Untagged
@@ -116698,6 +116696,40 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!111 &6409747882392796699
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6409747882392796698}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: 34342c4bfc6681941ac0b9f833d545d6, type: 2}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 0
+  m_AnimatePhysics: 0
+  m_CullingType: 0
+--- !u!95 &6409747882392796700
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6409747882392796698}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d3b46e6c24d5e754b84a1f65bcc12543, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &6413676505261767838
 Transform:
   m_ObjectHideFlags: 0
