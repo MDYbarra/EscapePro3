@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class GoalGame : MonoBehaviour
 {
-    public GameObject SphereA, SphereB, SphereC, TestObject;
+    public GameObject SphereA, SphereB, SphereC;
 
     // Start is called before the first frame update
     void Start()
@@ -21,7 +21,7 @@ public class GoalGame : MonoBehaviour
     {
         if (SphereC.activeSelf == false && SphereA.activeSelf == false && SphereB.activeSelf == false)
         {
-            TestObject.SetActive(false);
+            //TestObject.SetActive(false);
             SceneManager.LoadScene("World_2");
         }
         if (SphereC.activeSelf == false && SphereA.activeSelf == true && SphereB.activeSelf == false)
@@ -50,7 +50,7 @@ public class GoalGame : MonoBehaviour
             {
                 if (SphereC.activeSelf == false && SphereA.activeSelf == false && SphereB.activeSelf == false)
                 {
-                    TestObject.SetActive(false);
+                    //TestObject.SetActive(false);
                 }
                 
             }

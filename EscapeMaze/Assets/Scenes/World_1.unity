@@ -55795,7 +55795,6 @@ MonoBehaviour:
   SphereA: {fileID: 1062708896}
   SphereB: {fileID: 976035962}
   SphereC: {fileID: 941264997}
-  TestObject: {fileID: 0}
 --- !u!1 &1618970774
 GameObject:
   m_ObjectHideFlags: 0
@@ -60212,7 +60211,6 @@ MonoBehaviour:
   SphereA: {fileID: 1062708896}
   SphereB: {fileID: 976035962}
   SphereC: {fileID: 941264997}
-  TestObject: {fileID: 0}
 --- !u!1 &1751184348
 GameObject:
   m_ObjectHideFlags: 0
@@ -62561,7 +62559,6 @@ MonoBehaviour:
   SphereA: {fileID: 1062708896}
   SphereB: {fileID: 976035962}
   SphereC: {fileID: 941264997}
-  TestObject: {fileID: 0}
 --- !u!1 &1824498059
 GameObject:
   m_ObjectHideFlags: 0
@@ -98996,7 +98993,6 @@ MonoBehaviour:
   SphereA: {fileID: 1062708896}
   SphereB: {fileID: 976035962}
   SphereC: {fileID: 941264997}
-  TestObject: {fileID: 0}
 --- !u!1 &3941132091428617337
 GameObject:
   m_ObjectHideFlags: 0
