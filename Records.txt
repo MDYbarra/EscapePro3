@@ -224,7 +224,11 @@ hut
 phoeberoselogan
 https://sketchfab.com/3d-models/hut-25dfc4a3f00a4ce8a624ec90b120489f
 
-
+pinguin
+Low Poly Penguin
+3D Model
+Noah Hahn
+https://sketchfab.com/3d-models/low-poly-penguin-2447f7535657403f8b99256638d011e5
 
 -------------------------------------------------------------------------------
 
