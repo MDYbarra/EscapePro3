@@ -16,7 +16,7 @@ public class FlareTime : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.F) && counter == 0)
+        if ((Input.GetKey(KeyCode.F) || Input.GetKey(KeyCode.Joystick1Button9)) && counter == 0)
         {
             flare.SetActive(true);
             Invoke("removeFlare", 10);
