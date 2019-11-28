@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class FlareTime : MonoBehaviour
 {
-    public GameObject flare;
+    public GameObject flare, hintUsed, flareSound;
     private int counter = 0;
 
     // Start is called before the first frame update
@@ -19,6 +19,8 @@ public class FlareTime : MonoBehaviour
         if ((Input.GetKey(KeyCode.F) || Input.GetKey(KeyCode.Joystick1Button9)) && counter == 0)
         {
             flare.SetActive(true);
+            hintUsed.SetActive(true);
+            flareSound.SetActive(true);
             Invoke("removeFlare", 10);
         }
 
@@ -28,6 +30,7 @@ public class FlareTime : MonoBehaviour
     {
         counter = 1;
         Destroy(flare);
+        Destroy(flareSound);
     }
 
 }
