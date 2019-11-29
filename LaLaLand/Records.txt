@@ -1,0 +1,417 @@
+
+
+Notes for Project 3
+
+
+[ ] = incomplete     [√] = completed       √ = alt  v
+
+
+
+[√] Task A, Welcome Center 
+	[√] Game explanation. 
+	[√] Make booth type
+
+
+[√] Task B, Corn Maze
+	[√] Maze
+
+	[] Interactable items
+		[ ] Cutable Corn Stalks
+		[ ] Sword to cut corn in half
+		[√] Exit Flares
+		[√] Apple Tree, taken from Farm
+
+
+[√] Task C, Ring Puzzle
+	[√] Make puzzle game 
+	
+	[√] Hut Environment
+		[√] Timer
+		[√] Interactive
+
+
+[] Task D, Beach Scence
+	[√] Add beach toys / items
+	[√] Add small islands
+	[ ] Add light House
+	[ ] Add beach animals Crabs, birds, etc.
+	[√] Add animation to pirate ship, hot air balloon
+
+[√] Task E, Walking
+	[√] program right controller touch pad to make the player walk forward.
+
+[ ] Task F, Cave if time permitting
+	[ ] indiana jone bolder scene
+
+	[ ] Trigger treasure chest
+	
+
+Note: Features not implemented are not relevant to the current release of this project. These can be modified/added at a later time.
+
+---------------------------------------------------------------------------
+
+
+
+
+
+Software Used
+
+PhotoEditor
+GIMP 2.10.10
+GNU Image Manipulation Program
+
+
+
+-----------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+Code:
+
+Creating World
+29th July 2018 - VRTK V4 Interactions Showcase
+Virtual Reality Toolkit
+https://www.youtube.com/watch?v=zaL3IuvVRfA
+
+Base Code
+https://github.com/uic-cs428-arvr-master/Project2 
+
+VRTK
+https://github.com/ExtendRealityLtd/VRTK 
+
+Walking button
+Using scaling in your game design for fun in Virtual Reality with Unity3D
+Jason Weimann
+https://www.youtube.com/watch?v=pME123lfnEI&list=PLKxd7jXHNnjePZiHNzBV8ueiUFvhn5Ods&index=12&t=137s
+
+Blender tutorial for making 3D models
+Blender 2.8 Tutorial #1: Intro for Beginners #b3d
+BornCG
+https://www.youtube.com/watch?v=aX6HAn7zieg&list=PLKxd7jXHNnjePZiHNzBV8ueiUFvhn5Ods&index=10&t=2353s
+
+
+-------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+3D Models:
+
+Fence 
+Fence (Wood)
+trentspice
+https://sketchfab.com/3d-models/fence-wood-e530c55db10348a3a547ef92149bdd10
+
+ScareCrow
+Scarecrow Target
+Inuciian
+https://sketchfab.com/3d-models/scarecrow-target-c2fd402a2468450baa7329ae9878cba4
+
+BoardWalk
+Pontoon Low Poly
+JunkJunction
+https://sketchfab.com/3d-models/pontoon-low-poly-c89c4bbf1b6b48d789361cd2bf558cfd
+
+Boat
+Nikhil chatla
+https://sketchfab.com/3d-models/boat-8391ea38c022476b8896bd65b8146c29
+
+Pirate Ship
+cubic-lemon
+https://sketchfab.com/3d-models/pirate-ship-5434e9c5cc8b4f7bbbab1f177064e6aa
+
+Hot air Balloon
+Low poly hot air balloon
+stormsurgestudio
+https://sketchfab.com/3d-models/low-poly-hot-air-balloon-3eff436e33ce4db3a54d4d8edc43528b
+
+Apple Tree
+Tree
+Michael Ybarra
+Blender
+
+Apple 
+Michael Ybarra
+Blender
+
+Master Sword
+Low Poly Master Sword
+Respite
+https://sketchfab.com/3d-models/low-poly-master-sword-7446cb8cc2024952bc1066b72b9e4828
+
+ScareCrow
+undeadfae
+https://sketchfab.com/3d-models/low-poly-master-sword-7446cb8cc2024952bc1066b72b9e4828
+
+Palm Tree 1
+Palm Tree 2 neon
+xenon777
+https://sketchfab.com/3d-models/palm-tree-2-neon-ee082c572a424d3f89137c8975c18e31
+
+Palm Tree 2
+Low poly palm tree with coconuts (Separately)
+Anna Vidal (Milaein)
+https://sketchfab.com/3d-models/low-poly-palm-tree-with-coconuts-separately-32a7255a308e46cfbdabeb996405ba47
+
+Umbrella Chair Set
+LowPoly Beach Pack
+mkm.
+https://sketchfab.com/3d-models/lowpoly-beach-pack-12b3cf92f1214b638cdf7f7297ce4e75
+
+Umbrella Pair
+Parasol lowpoly - beach umbrella
+Harold.Llanos
+https://sketchfab.com/3d-models/parasol-lowpoly-beach-umbrella-bac8486298ab41ab884fccb867f1527b
+
+Sand Castle
+gugusheep
+https://sketchfab.com/3d-models/sand-castle-6a4e86bc640f4794bacb2c14f2facac9
+
+Large Sand Castle
+Castle Of Chinchilla Spain
+GSXNet
+https://sketchfab.com/3d-models/castle-of-chinchilla-spain-7f43805cd81e4512a4e683c33572e014
+
+boulder
+Michael Ybarra
+Blender
+Proptober Day 13: Hand Painted Stone Texture
+Nicholas DaRocha
+https://sketchfab.com/3d-models/Brick wall on building
+proptober-day-13-hand-painted-stone-texture-8d2ff8c2a55544d8a37481839813e038
+
+Corn Plant
+pála vedcom
+https://sketchfab.com/3d-models/corn-plant-5c4f395b4188417ca1757585be185387
+
+Bedroom
+Simple Voxel Bedroom
+JonathanZWhite
+https://sketchfab.com/3d-models/simple-voxel-bedroom-a8362a2280184085859ffbc0acb990d8#download
+
+Lamp
+Industrial Lamp 02 (Mobile)
+Juan Milanese
+https://sketchfab.com/3d-models/industrial-lamp-02-mobile-3ba9bccc46c64152ae02e2d30da372c3
+
+Cannon
+Silas6
+https://sketchfab.com/3d-models/cannon-fd6219cd34d6410db91546b727a9bf3c
+
+Absolute win
+I see this model as an absolute win
+wardd
+https://sketchfab.com/3d-models/i-see-this-model-as-an-absolute-win-e9adfdd7a1c5458da08187302a3fd367
+
+Question Block
+Question Block (Super Mario Bros.)
+aidanp
+https://sketchfab.com/3d-models/question-block-super-mario-bros-b056bc40d0ca48be813c318546323ffd#download
+
+hut
+phoeberoselogan
+https://sketchfab.com/3d-models/hut-25dfc4a3f00a4ce8a624ec90b120489f
+
+pinguin
+Low Poly Penguin
+3D Model
+Noah Hahn
+https://sketchfab.com/3d-models/low-poly-penguin-2447f7535657403f8b99256638d011e5
+
+Yoshi Egg
+Sir-Yas
+https://sketchfab.com/3d-models/yoshi-egg-2125c39434ed4b3696bdff0a0bdb6fb2
+
+Hammock
+sharonhambali
+https://sketchfab.com/3d-models/hammock-6647eb66da7046e29ebe83eb83a77839
+
+Table
+Park Table - Low Poly
+3D Model
+Gamedirection
+https://sketchfab.com/3d-models/park-table-low-poly-e88b5288aa4942739da8aa9af6c7778d
+
+Joker
+Joker Final Stand 
+3D Model
+Yulius Krisna
+https://sketchfab.com/3d-models/joker-final-stand-3837291669734bb295dee3c0884e78d3
+
+Welcome Center
+Stand grim
+dns-event
+https://sketchfab.com/3d-models/
+stand-grim-02c2dccf61b84910abd2bc4e5ee13742#download
+
+
+
+-------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+2D images:
+
+Sand
+brown sands
+Daniel Straub
+https://unsplash.com/s/photos/sand
+
+Water
+light reflected on water at daytime
+Marissa Rodriguez
+https://unsplash.com/s/photos/sand
+
+Grass
+green textile
+Akshay Chauhan
+https://unsplash.com/photos/qBUU6wsgK6A
+
+Brick Wall Test
+adamdart7
+https://sketchfab.com/3d-models/brick-wall-test-b8c4aa9e02d64689bf63453378f2f99e
+
+Corn Maze background
+Waldemar Brandt
+corn field in selective photography
+https://unsplash.com/photos/T9lKlrW1zoU
+
+Map of Hyrule
+Video Game / The Legend of Zelda: A Link to the Past
+AlphaSystem
+https://wall.alphacoders.com/big.php?i=13000
+
+Roof
+Mossy Roof Tile
+André Bray
+https://sketchfab.com/3d-models/mossy-roof-tile-fed613230b504e938b008a5f32285698
+
+Welcome Instructions
+Michael Ybarra
+Word, Blender
+
+Welcome sign
+Belinda Fewings
+@bel2000a
+https://unsplash.com/photos/6wAGwpsXHE0
+-------------------------------------------------------------------------------
+
+
+
+
+
+Music
+
+tree room
+Album name: Legend of Zelda, The - A Link to the Past (1991) (SNES)
+Song name: Beginning of the Journey
+https://downloads.khinsider.com/game-soundtracks/album/legend-of-zelda-the-a-link-to-the-past-snes/02%2520Beginning%2520of%2520the%2520Journey.mp3
+
+play area background
+Album name: Legend of Zelda, The - A Link to the Past (1991) (SNES)
+Song name: Kakariko Village
+https://downloads.khinsider.com/game-soundtracks/album/legend-of-zelda-the-a-link-to-the-past-snes/09%2520Kakariko%2520Village.mp3
+
+corn maze back ground
+Album name: Legend of Zelda, The - A Link to the Past (1991) (SNES)
+Song name: Forest of Mystery
+https://downloads.khinsider.com/game-soundtracks/album/legend-of-zelda-the-a-link-to-the-past-snes/18%2520Forest%2520of%2520Mystery.mp3
+
+Maze Exit
+Album name: Legend of Zelda, The (NES)
+Song name: Secret
+https://downloads.khinsider.com/game-soundtracks/album/the-legend-of-zelda-nes/05%2520Secret.mp3
+
+World 2
+Album name: Legend of Zelda, The - Ocarina of Time 3D Original Soundtrack
+Song name: House
+https://downloads.khinsider.com/game-soundtracks/album/the-legend-of-zelda-ocarina-of-time-3d-original-soundtrack/04%2520House.mp3
+Album name: Super Mario 64 (N64)
+Song name: Piranha Plant's Lullaby
+https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/18_Piranha%2520Plant%2527s%2520Lullaby.mp3
+
+
+Joker - Arkham Asylum Voices
+https://www.youtube.com/watch?v=-vn0gQ0nJBw
+
+Joker - DC Universe Online Voice Clips
+https://www.youtube.com/watch?v=Q9b229BA1zk
+
+Goal Event Chimes - Rock League SFX
+https://www.youtube.com/watch?v=6SYZvYRzlUg
+
+https://sketchfab.com/3d-models/torch-simple-305bfb6ea73148a3bcc6e01a046596b8#download
+Psychloor
+Torch Simple
+
+24 countdown
+https://www.youtube.com/watch?v=Expu1pumA-w
+
+Boulder Sound
+Title: Rock Slide
+Uploaded: 08.25.09
+License: Sampling Plus 1.0
+Recorded by Benboncan
+http://soundbible.com/904-Rock-Slide.html
+
+Question Block
+Album name: Super Mario Bros
+Song name: 1-Up
+https://downloads.khinsider.com/game-soundtracks/album/super-mario-bros/14%2520-%25201-Up.mp3
+
+
+
+
+
+----------------------------------------------------------------------------
+
+
+General Issues
+
+- Unable to not walk through walls.
+- Unable to climb/reach 2nd flr.
+* Solution: Open flat play area, with objects you can 
+			walk through.
+
+- Scaling tip
+	Add object made to your hieght and set in front of 
+	game tab to quicly adjust of models. 
+
+- Sand Castles 
+	Used 3D Models of real castles with a sand jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
