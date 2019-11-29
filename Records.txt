@@ -3,47 +3,50 @@
 Notes for Project 3
 
 
-[] = incomplete     [√] = completed       √ = alt  v
+[ ] = incomplete     [√] = completed       √ = alt  v
 
 
 
-[] Task A, Welcome Center 
-	[] Game explaination. 
-	[] Make Booth type thingy
+[√] Task A, Welcome Center 
+	[√] Game explanation. 
+	[√] Make booth type
 
 
-[] Task B,Corn Maze
-	[] Maze
+[√] Task B, Corn Maze
+	[√] Maze
 
 	[] Interactable items
-		[] Cutable Corn Stalks
-		[] Sword to cut corn in half
-		[] Exit Flares
-		[] Apple Tree, take from Farm
+		[ ] Cutable Corn Stalks
+		[ ] Sword to cut corn in half
+		[√] Exit Flares
+		[√] Apple Tree, taken from Farm
 
 
-[] Task C, Petting Zoo
-	[] Make tossing game 
+[√] Task C, Ring Puzzle
+	[√] Make puzzle game 
 	
-	[] Aniamls
-		[] Giraffe
-		[] Penguin
+	[√] Hut Environment
+		[√] Timer
+		[√] Interactive
 
 
 [] Task D, Beach Scence
-	[] Add beach toys / items
-	[] Add small islands
-	[] Add light House
-	[] Add beach animals Crabs, birds, etc.
-	[] Add animation to pirate ship, hot air balloon
+	[√] Add beach toys / items
+	[√] Add small islands
+	[ ] Add light House
+	[ ] Add beach animals Crabs, birds, etc.
+	[√] Add animation to pirate ship, hot air balloon
 
-[] Task E, Walking
-	[] program right controller touch pad to make the player walk forward.
+[√] Task E, Walking
+	[√] program right controller touch pad to make the player walk forward.
 
-[] Task F, Cave if time permitting
-	[] indiana jone bolder scene
+[ ] Task F, Cave if time permitting
+	[ ] indiana jone bolder scene
 
-	[] Trigger treasure chest
+	[ ] Trigger treasure chest
+	
+
+Note: Features not implemented are not relevant to the current release of this project. These can be modified/added at a later time.
 
 ---------------------------------------------------------------------------
 
